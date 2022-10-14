@@ -1,0 +1,6 @@
+Name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+days = age * 365
+hours = days * 24
+mins = hours * 60
+secs = mins * 60
